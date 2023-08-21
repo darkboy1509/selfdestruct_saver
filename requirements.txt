@@ -1,0 +1,4 @@
+telethon==1.26.1
+python-decouple==3.6
+datetime==5.2
+asyncio==3.4.3
